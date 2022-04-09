@@ -1,7 +1,10 @@
 body
 {
-	background: lightblue;
+	background-color: blanchedalmond;
+	
+	
 }
+
 
 	.login_div1 , .login_div2
 	{
@@ -34,3 +37,22 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+
+.line{
+    background-color: black;
+    height: 6px;
+    width: 100px;
+    margin:8px auto;
+}
+
+.mynavbar{
+    position: sticky;
+    top:0;
+    z-index:999;
+}
+
+
+
+
+
+
