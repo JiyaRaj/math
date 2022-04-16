@@ -51,8 +51,12 @@ text-align: left;
     z-index:999;
 }
 
+#second{
+	color: white;
+}
 
-
-
+input,#output{
+	color: black;
+}
 
 
